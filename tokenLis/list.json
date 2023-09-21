@@ -1,0 +1,51 @@
+{
+  "name": "Morphism Bridge Token List",
+  "logoURI": "",
+  "keywords": [
+    "morphism",
+    "bridge",
+    "token"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
+    }
+  },
+  "timestamp": "2021-03-03T19:57:21+0000",
+  "tokens": [
+    {
+      "chainId": "11155111",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "name": "Ethereum Token",
+      "decimals": 18,
+      "logoURI": "https://morphism.network/logo/eth_logo.png"
+    },
+    {
+      "chainId": "2710",
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "symbol": "ETH",
+      "name": "Ethereum Token",
+      "decimals": 18,
+      "logoURI": "https://morphism.network/logo/eth_logo.png"
+    },
+    {
+      "chainId": "2710",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "name": "Ethereum Token",
+      "decimals": 18,
+      "logoURI": "https://morphism.network/logo/eth_logo.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
