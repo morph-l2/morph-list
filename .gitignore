@@ -1,0 +1,18 @@
+*.idea
+.DS_Store
+node_modules
+
+# vim
+*.sw*
+
+# jetbrains
+.idea/
+
+.env
+.env*
+!.env.example
+*.log
+
+# cache
+cache
+package-lock.json
