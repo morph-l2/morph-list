@@ -201,6 +201,14 @@
             "description": "Metadata for a single token in a token list",
             "additionalProperties": false,
             "properties": {
+                "coingeckoId": {
+                    "type": "string",
+                    "description": "The id of the coingecko. You can get coingeckoId from https://api.coingecko.com/api/v3/coins/list",
+                    "examples": [
+                        "ethereum",
+                        "bitcoin"
+                    ]
+                },
                 "chainId": {
                     "type": "string",
                     "description": "The chain ID of the Ethereum network where this token is deployed",
@@ -271,6 +279,7 @@
                 }
             },
             "required": [
+                "coingeckoId",
                 "chainId",
                 "address",
                 "decimals",
