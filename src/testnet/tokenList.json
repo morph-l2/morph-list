@@ -19,20 +19,22 @@
   "timestamp": "2023-09-21T08:49:46Z",
   "tokens": [
     {
+      "coingecko_id": "ethereum",
       "chainId": "11155111",
       "address": "0x0000000000000000000000000000000000000000",
       "symbol": "ETH",
-      "name": "Ethereum Token",
+      "name": "Ethereum",
       "decimals": 18,
-      "logoURI": "https://morphism.network/logo/eth_logo.png"
+      "logoURI": "https://bridge-testnet.morphism.xyz/images/token/ethereum.svg"
     },
     {
+      "coingecko_id": "ethereum",
       "chainId": "2710",
       "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
       "symbol": "ETH",
-      "name": "Ethereum Token",
+      "name": "Ethereum",
       "decimals": 18,
-      "logoURI": "https://morphism.network/logo/eth_logo.png"
+      "logoURI": "https://bridge-testnet.morphism.xyz/images/token/ethereum.svg"
     }
   ],
   "version": {
