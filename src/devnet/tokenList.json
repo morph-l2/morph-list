@@ -24,7 +24,7 @@
       "symbol": "ETH",
       "name": "Ethereum Token",
       "decimals": 18,
-      "logoURI": "https://morphism.network/logo/eth_logo.png"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/ETH.svg"
     },
     {
       "chainId": "53077",
@@ -32,7 +32,7 @@
       "symbol": "ETH",
       "name": "Ethereum Token",
       "decimals": 18,
-      "logoURI": "https://morphism.network/logo/eth_logo.png"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/ETH.svg"
     },
     {
       "chainId": "900",
@@ -40,7 +40,7 @@
       "symbol": "BGB",
       "name": "Morphism BGB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/BGB.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/BGB.svg"
     },
     {
       "chainId": "53077",
@@ -48,7 +48,7 @@
       "symbol": "BGB",
       "name": "Morphism BGB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/BGB.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/BGB.svg"
     },
     {
       "chainId": "900",
@@ -56,7 +56,7 @@
       "symbol": "DAI",
       "name": "Morphism DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/DAI.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/DAI.svg"
     },
     {
       "chainId": "53077",
@@ -64,7 +64,7 @@
       "symbol": "DAI",
       "name": "Morphism DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/DAI.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/DAI.svg"
     },
     {
       "chainId": "900",
@@ -72,7 +72,7 @@
       "symbol": "DYDX",
       "name": "Morphism DYDX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/DYDX.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/DYDX.svg"
     },
     {
       "chainId": "53077",
@@ -80,7 +80,7 @@
       "symbol": "DYDX",
       "name": "Morphism DYDX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/DYDX.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/DYDX.svg"
     },
     {
       "chainId": "900",
@@ -88,7 +88,7 @@
       "symbol": "LDO",
       "name": "Morphism LDO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/LDO.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/LDO.svg"
     },
     {
       "chainId": "53077",
@@ -96,7 +96,7 @@
       "symbol": "LDO",
       "name": "Morphism LDO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/LDO.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/LDO.svg"
     },
     {
       "chainId": "900",
@@ -104,7 +104,7 @@
       "symbol": "LINK",
       "name": "Morphism LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/LINK.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/LINK.svg"
     },
     {
       "chainId": "53077",
@@ -112,7 +112,7 @@
       "symbol": "LINK",
       "name": "Morphism LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/LINK.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/LINK.svg"
     },
     {
       "chainId": "900",
@@ -120,7 +120,7 @@
       "symbol": "MKR",
       "name": "Morphism MKR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/MKR.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/MKR.svg"
     },
     {
       "chainId": "53077",
@@ -128,7 +128,7 @@
       "symbol": "MKR",
       "name": "Morphism MKR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/MKR.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/MKR.svg"
     },
     {
       "chainId": "900",
@@ -136,7 +136,7 @@
       "symbol": "UNI",
       "name": "Morphism UNI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/UNI.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/UNI.svg"
     },
     {
       "chainId": "53077",
@@ -144,7 +144,7 @@
       "symbol": "UNI",
       "name": "Morphism UNI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/UNI.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/UNI.svg"
     },
     {
       "chainId": "900",
@@ -152,7 +152,7 @@
       "symbol": "USDT",
       "name": "Morphism USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/USDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/USDT.svg"
     },
     {
       "chainId": "53077",
@@ -160,7 +160,7 @@
       "symbol": "USDT",
       "name": "Morphism USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/USDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/USDT.svg"
     },
     {
       "chainId": "900",
@@ -168,7 +168,7 @@
       "symbol": "WBTC",
       "name": "Morphism WBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/WBTC.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/WBTC.svg"
     },
     {
       "chainId": "53077",
@@ -176,7 +176,7 @@
       "symbol": "WBTC",
       "name": "Morphism WBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/WBTC.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/WBTC.svg"
     },
     {
       "chainId": "900",
@@ -184,7 +184,7 @@
       "symbol": "WETH",
       "name": "Morphism WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/WETH.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/WETH.svg"
     },
     {
       "chainId": "53077",
@@ -192,7 +192,7 @@
       "symbol": "WETH",
       "name": "Morphism WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/WETH.svg"
+      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/WETH.svg"
     }
   ],
   "version": {
