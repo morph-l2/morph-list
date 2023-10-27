@@ -33,6 +33,166 @@
       "name": "Ethereum Token",
       "decimals": 18,
       "logoURI": "https://morphism.network/logo/eth_logo.png"
+    },
+    {
+      "chainId": "900",
+      "address": "0x927b167526bAbB9be047421db732C663a0b77B11",
+      "symbol": "BGB",
+      "name": "Morphism BGB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/BGB.svg"
+    },
+    {
+      "chainId": "53077",
+      "address": "0xc351628EB244ec633d5f21fBD6621e1a683B1181",
+      "symbol": "BGB",
+      "name": "Morphism BGB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/BGB.svg"
+    },
+    {
+      "chainId": "900",
+      "address": "0x32EEce76C2C2e8758584A83Ee2F522D4788feA0f",
+      "symbol": "DAI",
+      "name": "Morphism DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/DAI.svg"
+    },
+    {
+      "chainId": "53077",
+      "address": "0xFD471836031dc5108809D173A067e8486B9047A3",
+      "symbol": "DAI",
+      "name": "Morphism DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/DAI.svg"
+    },
+    {
+      "chainId": "900",
+      "address": "0x02b0B4EFd909240FCB2Eb5FAe060dC60D112E3a4",
+      "symbol": "DYDX",
+      "name": "Morphism DYDX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/DYDX.svg"
+    },
+    {
+      "chainId": "53077",
+      "address": "0xcbEAF3BDe82155F56486Fb5a1072cb8baAf547cc",
+      "symbol": "DYDX",
+      "name": "Morphism DYDX",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/DYDX.svg"
+    },
+    {
+      "chainId": "900",
+      "address": "0x6C2d83262fF84cBaDb3e416D527403135D757892",
+      "symbol": "LDO",
+      "name": "Morphism LDO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/LDO.svg"
+    },
+    {
+      "chainId": "53077",
+      "address": "0x1429859428C0aBc9C2C47C8Ee9FBaf82cFA0F20f",
+      "symbol": "LDO",
+      "name": "Morphism LDO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/LDO.svg"
+    },
+    {
+      "chainId": "900",
+      "address": "0xa6e99A4ED7498b3cdDCBB61a6A607a4925Faa1B7",
+      "symbol": "LINK",
+      "name": "Morphism LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/LINK.svg"
+    },
+    {
+      "chainId": "53077",
+      "address": "0xB0D4afd8879eD9F52b28595d31B441D079B2Ca07",
+      "symbol": "LINK",
+      "name": "Morphism LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/LINK.svg"
+    },
+    {
+      "chainId": "900",
+      "address": "0x5302E909d1e93e30F05B5D6Eea766363D14F9892",
+      "symbol": "MKR",
+      "name": "Morphism MKR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/MKR.svg"
+    },
+    {
+      "chainId": "53077",
+      "address": "0x162A433068F51e18b7d13932F27e66a3f99E6890",
+      "symbol": "MKR",
+      "name": "Morphism MKR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/MKR.svg"
+    },
+    {
+      "chainId": "900",
+      "address": "0x0ed64d01D0B4B655E410EF1441dD677B695639E7",
+      "symbol": "UNI",
+      "name": "Morphism UNI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/UNI.svg"
+    },
+    {
+      "chainId": "53077",
+      "address": "0x922D6956C99E12DFeB3224DEA977D0939758A1Fe",
+      "symbol": "UNI",
+      "name": "Morphism UNI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/UNI.svg"
+    },
+    {
+      "chainId": "900",
+      "address": "0x4bf010f1b9beDA5450a8dD702ED602A104ff65EE",
+      "symbol": "USDT",
+      "name": "Morphism USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/USDT.svg"
+    },
+    {
+      "chainId": "53077",
+      "address": "0x5081a39b8A5f0E35a8D959395a630b68B74Dd30f",
+      "symbol": "USDT",
+      "name": "Morphism USDT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/USDT.svg"
+    },
+    {
+      "chainId": "900",
+      "address": "0x40a42Baf86Fc821f972Ad2aC878729063CeEF403",
+      "symbol": "WBTC",
+      "name": "Morphism WBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/WBTC.svg"
+    },
+    {
+      "chainId": "53077",
+      "address": "0x1fA02b2d6A771842690194Cf62D91bdd92BfE28d",
+      "symbol": "WBTC",
+      "name": "Morphism WBTC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/WBTC.svg"
+    },
+    {
+      "chainId": "900",
+      "address": "0x986aaa537b8cc170761FDAC6aC4fc7F9d8a20A8C",
+      "symbol": "WETH",
+      "name": "Morphism WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/WETH.svg"
+    },
+    {
+      "chainId": "53077",
+      "address": "0xdbC43Ba45381e02825b14322cDdd15eC4B3164E6",
+      "symbol": "WETH",
+      "name": "Morphism WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/blockscout/blockscout/master/tokenIcons/WETH.svg"
     }
   ],
   "version": {
