@@ -36,7 +36,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x84eA74d481Ee0A5332c457a4d796187F6Ba67fEB",
+      "address": "0xFD069397cC76eE5563e04Df06bc578562fD4C97D",
       "symbol": "BGB",
       "name": "Morphism BGB",
       "decimals": 18,
@@ -44,7 +44,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+      "address": "0xFD069397cC76eE5563e04Df06bc578562fD4C97D",
       "symbol": "BGB",
       "name": "Morphism BGB",
       "decimals": 18,
@@ -52,7 +52,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x9E545E3C0baAB3E08CdfD552C960A1050f373042",
+      "address": "0x9fEE036a35ea8f98538504a9139AC4132e7A7e6e",
       "symbol": "DAI",
       "name": "Morphism DAI",
       "decimals": 18,
@@ -60,7 +60,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0x1613beB3B2C4f22Ee086B2b38C1476A3cE7f78E8",
+      "address": "0x9fEE036a35ea8f98538504a9139AC4132e7A7e6e",
       "symbol": "DAI",
       "name": "Morphism DAI",
       "decimals": 18,
@@ -68,7 +68,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x02b0B4EFd909240FCB2Eb5FAe060dC60D112E3a4",
+      "address": "0x505948B589Aa4FFc83Ef3A3BFF6265E8734CbCA5",
       "symbol": "DYDX",
       "name": "Morphism DYDX",
       "decimals": 18,
@@ -76,7 +76,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+      "address": "0x501442bd725fB61E8ca24b4C231b70090DCBf6E3",
       "symbol": "DYDX",
       "name": "Morphism DYDX",
       "decimals": 18,
@@ -84,7 +84,7 @@
     },
     {
       "chainId": "900",
-      "address": "0xf5059a5D33d5853360D16C683c16e67980206f36",
+      "address": "0xde3683CE1bF2d6a6C078C8bdE0A4EAAAe1038151",
       "symbol": "LDO",
       "name": "Morphism LDO",
       "decimals": 18,
@@ -92,7 +92,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0xDc64a140Aa3E981100a9becA4E685f962f0cF6C9",
+      "address": "0x505948B589Aa4FFc83Ef3A3BFF6265E8734CbCA5",
       "symbol": "LDO",
       "name": "Morphism LDO",
       "decimals": 18,
@@ -100,7 +100,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x998abeb3E57409262aE5b751f60747921B33613E",
+      "address": "0x9D2f5A5782C01F216DdD2d0Fe36b239CDB7e664a",
       "symbol": "LINK",
       "name": "Morphism LINK",
       "decimals": 18,
@@ -108,7 +108,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",
+      "address": "0x9ADBe2DE9878Ec08845f5Bdd76fD58d626df5C0A",
       "symbol": "LINK",
       "name": "Morphism LINK",
       "decimals": 18,
@@ -116,7 +116,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x70e0bA845a1A0F2DA3359C97E0285013525FFC49",
+      "address": "0xC2bc7D74F9ee59e9e9CbDAff2811666f8490fa91",
       "symbol": "MKR",
       "name": "Morphism MKR",
       "decimals": 18,
@@ -124,7 +124,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0x0165878A594ca255338adfa4d48449f69242Eb8F",
+      "address": "0xde3683CE1bF2d6a6C078C8bdE0A4EAAAe1038151",
       "symbol": "MKR",
       "name": "Morphism MKR",
       "decimals": 18,
@@ -132,7 +132,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x4826533B4897376654Bb4d4AD88B7faFD0C98528",
+      "address": "0x49fF06447e24EEAFcd0c4E8A63bcDaFe9d492440",
       "symbol": "UNI",
       "name": "Morphism UNI",
       "decimals": 18,
@@ -140,7 +140,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
+      "address": "0xd0A7Be7Ca24fAE74132dd3401f4A842563263950",
       "symbol": "UNI",
       "name": "Morphism UNI",
       "decimals": 18,
@@ -148,7 +148,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x99bbA657f2BbC93c02D617f8bA121cB8Fc104Acf",
+      "address": "0x73F225A46f9Ab038C0f2De5072adc76193a2336A",
       "symbol": "USDT",
       "name": "Morphism USDT",
       "decimals": 18,
@@ -156,7 +156,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0x2279B7A0a67DB372996a5FaB50D91eAA73d2eBe6",
+      "address": "0x9D2f5A5782C01F216DdD2d0Fe36b239CDB7e664a",
       "symbol": "USDT",
       "name": "Morphism USDT",
       "decimals": 18,
@@ -164,7 +164,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x0E801D84Fa97b50751Dbf25036d067dCf18858bF",
+      "address": "0xBE0C0D6b5C35Cc7e1A51c6771CBb11e56804C173",
       "symbol": "WBTC",
       "name": "Morphism WBTC",
       "decimals": 18,
@@ -172,7 +172,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0x8A791620dd6260079BF849Dc5567aDC3F2FdC318",
+      "address": "0xC2bc7D74F9ee59e9e9CbDAff2811666f8490fa91",
       "symbol": "WBTC",
       "name": "Morphism WBTC",
       "decimals": 18,
@@ -180,7 +180,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x9d4454B023096f34B160D6B654540c56A1F81688",
+      "address": "0xF94bc58204A5896d73FEA63D19b724FD3e016d23",
       "symbol": "WETH",
       "name": "Morphism WETH",
       "decimals": 18,
@@ -188,7 +188,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0x610178dA211FEF7D417bC0e6FeD39F05609AD788",
+      "address": "0x49fF06447e24EEAFcd0c4E8A63bcDaFe9d492440",
       "symbol": "WETH",
       "name": "Morphism WETH",
       "decimals": 18,
