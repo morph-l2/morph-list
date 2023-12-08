@@ -1,4 +1,4 @@
-module github.com/morphism-labs/morphism-list
+module github.com/morph-l2/morph-list
 
 go 1.20
 

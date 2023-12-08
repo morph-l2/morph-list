@@ -1,8 +1,8 @@
 {
   "name": "Bridge Token List",
-  "logoURI": "https://morphism.network/logo/bridge.png",
+  "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/bridgeIcos/morph_bridge.svg",
   "keywords": [
-    "morphism",
+    "morph",
     "bridge",
     "token"
   ],
@@ -24,7 +24,7 @@
       "symbol": "ETH",
       "name": "Ethereum Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/ETH.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/ETH.svg"
     },
     {
       "chainId": "53077",
@@ -32,167 +32,167 @@
       "symbol": "ETH",
       "name": "Ethereum Token",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/ETH.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/ETH.svg"
     },
     {
       "chainId": "900",
       "address": "0xFD069397cC76eE5563e04Df06bc578562fD4C97D",
       "symbol": "BGB",
-      "name": "Morphism BGB",
+      "name": "Morph BGB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/BGB.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGB.svg"
     },
     {
       "chainId": "53077",
       "address": "0xFD069397cC76eE5563e04Df06bc578562fD4C97D",
       "symbol": "BGB",
-      "name": "Morphism BGB",
+      "name": "Morph BGB",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/BGB.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGB.svg"
     },
     {
       "chainId": "900",
       "address": "0x9fEE036a35ea8f98538504a9139AC4132e7A7e6e",
       "symbol": "DAI",
-      "name": "Morphism DAI",
+      "name": "Morph DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/DAI.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DAI.svg"
     },
     {
       "chainId": "53077",
       "address": "0x9fEE036a35ea8f98538504a9139AC4132e7A7e6e",
       "symbol": "DAI",
-      "name": "Morphism DAI",
+      "name": "Morph DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/DAI.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DAI.svg"
     },
     {
       "chainId": "900",
       "address": "0x505948B589Aa4FFc83Ef3A3BFF6265E8734CbCA5",
       "symbol": "DYDX",
-      "name": "Morphism DYDX",
+      "name": "Morph DYDX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/DYDX.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DYDX.svg"
     },
     {
       "chainId": "53077",
       "address": "0x501442bd725fB61E8ca24b4C231b70090DCBf6E3",
       "symbol": "DYDX",
-      "name": "Morphism DYDX",
+      "name": "Morph DYDX",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/DYDX.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DYDX.svg"
     },
     {
       "chainId": "900",
       "address": "0xde3683CE1bF2d6a6C078C8bdE0A4EAAAe1038151",
       "symbol": "LDO",
-      "name": "Morphism LDO",
+      "name": "Morph LDO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/LDO.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/LDO.svg"
     },
     {
       "chainId": "53077",
       "address": "0x505948B589Aa4FFc83Ef3A3BFF6265E8734CbCA5",
       "symbol": "LDO",
-      "name": "Morphism LDO",
+      "name": "Morph LDO",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/LDO.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/LDO.svg"
     },
     {
       "chainId": "900",
       "address": "0x9D2f5A5782C01F216DdD2d0Fe36b239CDB7e664a",
       "symbol": "LINK",
-      "name": "Morphism LINK",
+      "name": "Morph LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/LINK.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/LINK.svg"
     },
     {
       "chainId": "53077",
       "address": "0x9ADBe2DE9878Ec08845f5Bdd76fD58d626df5C0A",
       "symbol": "LINK",
-      "name": "Morphism LINK",
+      "name": "Morph LINK",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/LINK.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/LINK.svg"
     },
     {
       "chainId": "900",
       "address": "0xC2bc7D74F9ee59e9e9CbDAff2811666f8490fa91",
       "symbol": "MKR",
-      "name": "Morphism MKR",
+      "name": "Morph MKR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/MKR.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/MKR.svg"
     },
     {
       "chainId": "53077",
       "address": "0xde3683CE1bF2d6a6C078C8bdE0A4EAAAe1038151",
       "symbol": "MKR",
-      "name": "Morphism MKR",
+      "name": "Morph MKR",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/MKR.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/MKR.svg"
     },
     {
       "chainId": "900",
       "address": "0x49fF06447e24EEAFcd0c4E8A63bcDaFe9d492440",
       "symbol": "UNI",
-      "name": "Morphism UNI",
+      "name": "Morph UNI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/UNI.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/UNI.svg"
     },
     {
       "chainId": "53077",
       "address": "0xd0A7Be7Ca24fAE74132dd3401f4A842563263950",
       "symbol": "UNI",
-      "name": "Morphism UNI",
+      "name": "Morph UNI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/UNI.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/UNI.svg"
     },
     {
       "chainId": "900",
       "address": "0x73F225A46f9Ab038C0f2De5072adc76193a2336A",
       "symbol": "USDT",
-      "name": "Morphism USDT",
+      "name": "Morph USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/USDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDT.svg"
     },
     {
       "chainId": "53077",
       "address": "0x9D2f5A5782C01F216DdD2d0Fe36b239CDB7e664a",
       "symbol": "USDT",
-      "name": "Morphism USDT",
+      "name": "Morph USDT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/USDT.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDT.svg"
     },
     {
       "chainId": "900",
       "address": "0xBE0C0D6b5C35Cc7e1A51c6771CBb11e56804C173",
       "symbol": "WBTC",
-      "name": "Morphism WBTC",
+      "name": "Morph WBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/WBTC.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WBTC.svg"
     },
     {
       "chainId": "53077",
       "address": "0xC2bc7D74F9ee59e9e9CbDAff2811666f8490fa91",
       "symbol": "WBTC",
-      "name": "Morphism WBTC",
+      "name": "Morph WBTC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/WBTC.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WBTC.svg"
     },
     {
       "chainId": "900",
       "address": "0xF94bc58204A5896d73FEA63D19b724FD3e016d23",
       "symbol": "WETH",
-      "name": "Morphism WETH",
+      "name": "Morph WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/WETH.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WETH.svg"
     },
     {
       "chainId": "53077",
       "address": "0x49fF06447e24EEAFcd0c4E8A63bcDaFe9d492440",
       "symbol": "WETH",
-      "name": "Morphism WETH",
+      "name": "Morph WETH",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morphism-labs/morphism-list/main/tokenIcons/WETH.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WETH.svg"
     }
   ],
   "version": {
