@@ -23,13 +23,16 @@ To get your token approved and listed on the bridge UI, it has to follow a speci
 
 <b>Adding a token to the list</b>
 
-[Create a folder for your token]
+<u>*Create a folder for your token*</u>
+
 Inside the data folder, create a new folder with the same name as your token symbol. For example, if your token symbol is "ETH," make a folder named "ETH."
 Add a logo to your folder
 Add a logo to the data folder you just created. It must be in SVG format and named logo.svg. Ensure the logo is at least 200x200 points (pt), but it's better if it's 256x256 points.
 
-[Create a data file]
+<u>*Create a data file*</u>
+
 Add a file to your folder called data.json with the following format:
+```json
 {
   "name": "Bridge Token List",
   "logoURI": "https://Morph.network/logo/bridge.png",
@@ -73,14 +76,18 @@ Add a file to your folder called data.json with the following format:
     "patch": 0
   }
 }
+```
 
 <b>Approve process</b>
 
-[Create a pull request]
+<u>*Create a pull request*</u>
+
 Start by creating a pull request (PR) with the changes you've made. For each token you want to add, please create a separate PR. Each PR should contain two new files within a new folder.  If you want to add multiple tokens, please open different PRs for each token.
 
-[Wait for  automatical update]
+<u>*Wait for  automatically update*</u>
+
 Once your PR is approved and merged, the token list will update automatically to include your token. Please do NOT update the token list (Morph.tokenlist.json) directly. All token list updates will be handled automatically when PRs are merged into the master branch.  
 
-[Note the update schedule]
+<u>*Note the update schedule*</u>
+
 Keep in mind that the bridge user interface (UI) is refreshed approximately every workday. So, it might take a day or up to three days if there's an update on Friday before your token becomes available there.
