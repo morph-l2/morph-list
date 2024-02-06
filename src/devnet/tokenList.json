@@ -36,22 +36,6 @@
     },
     {
       "chainId": "900",
-      "address": "0xFD069397cC76eE5563e04Df06bc578562fD4C97D",
-      "symbol": "BGB",
-      "name": "Bitget Token",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGB.svg"
-    },
-    {
-      "chainId": "53077",
-      "address": "0xFD069397cC76eE5563e04Df06bc578562fD4C97D",
-      "symbol": "BGB",
-      "name": "Bitget Token",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGB.svg"
-    },
-    {
-      "chainId": "900",
       "address": "0x9fEE036a35ea8f98538504a9139AC4132e7A7e6e",
       "symbol": "DAI",
       "name": "Dai",
