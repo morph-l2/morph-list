@@ -36,7 +36,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x5C52B55FEcCea5A646aD15a56B23E3E045952E6b",
+      "address": "0xD6e9Cd5ef382b0830653d1b2007D5Ca6987FaA26",
       "symbol": "DAI",
       "name": "Dai",
       "decimals": 18,
@@ -44,7 +44,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0x64f605e563C108143aA2D168f9d3E24Da86918f9",
+      "address": "0x9E12AD42c4E4d2acFBADE01a96446e48e6764B98",
       "symbol": "DAI",
       "name": "Dai",
       "decimals": 18,
@@ -52,7 +52,7 @@
     },
     {
       "chainId": "900",
-      "address": "0xeE099b9D72F377Acf436809b575026698d2578C2",
+      "address": "0x0382AdB37AA9120fe2E38E3b5145f4a124D00775",
       "symbol": "DYDX",
       "name": "ETHDYDX",
       "decimals": 18,
@@ -60,7 +60,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0x517FA2eF448FE76d1a8e9c6a5F2508B6484d978f",
+      "address": "0x3A95B26b1FD941bF2807686fCb899045c88F2e0d",
       "symbol": "DYDX",
       "name": "ETHDYDX",
       "decimals": 18,
@@ -68,7 +68,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x20cbF426283B8996f72B15d495E1B6F3422bA9aE",
+      "address": "0x14C349286E39D2C3B169252B9B9317663405B0a2",
       "symbol": "LDO",
       "name": "Lido Dao",
       "decimals": 18,
@@ -76,7 +76,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0xa653309E584ca8195840baE83e7E9829EE7820fA",
+      "address": "0x6677b000E8a2bC9B2d4aC300Ea02f6187F38438F",
       "symbol": "LDO",
       "name": "Lido Dao",
       "decimals": 18,
@@ -84,7 +84,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x2a4578F16a9bD60eb113a35B31E92247450465B0",
+      "address": "0xfDe8f962d7f40ccaaA101ECEd3842EBbFbB77D65",
       "symbol": "LINK",
       "name": "Chainlink",
       "decimals": 18,
@@ -92,7 +92,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0x54CC158593e5246A37F1d5C307dFE42eEa4C7710",
+      "address": "0xC2F26bb75eC0A9FB22C8533A23F24De00B956713",
       "symbol": "LINK",
       "name": "Chainlink",
       "decimals": 18,
@@ -100,7 +100,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x71f99635c54812Dda21D9f3Fef6c1b6eF72F8bE4",
+      "address": "0x19fA67accaaa5F299e44F57D3AC5ff496C41cd67",
       "symbol": "MKR",
       "name": "Maker",
       "decimals": 18,
@@ -108,7 +108,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0x5Fe435E914D9f35055e4E9fb02F61ae1b37CA372",
+      "address": "0x6677b000E8a2bC9B2d4aC300Ea02f6187F38438F",
       "symbol": "MKR",
       "name": "Maker",
       "decimals": 18,
@@ -116,7 +116,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x6716C7903D39f907e7e73cdc636147F0AE18378A",
+      "address": "0x0FA200eD0AfC1B133C87DCc498a1fb8e2e13Cb24",
       "symbol": "UNI",
       "name": "Uniswap",
       "decimals": 18,
@@ -124,7 +124,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0xE77B34575d1Ef84f0436Bd9Aa8e41d3e5faC72A5",
+      "address": "0x8A8EFbf77935455Ba378f782c54eF176D85607c2",
       "symbol": "UNI",
       "name": "Uniswap",
       "decimals": 18,
@@ -132,7 +132,7 @@
     },
     {
       "chainId": "900",
-      "address": "0xb6fD0b4F948b260102e6c96dEB7De6c8a4e7Fd9C",
+      "address": "0xB4A71512cf4F3A8f675D2aeC76198D6419D219C7",
       "symbol": "USDT",
       "name": "Tether",
       "decimals": 18,
@@ -140,7 +140,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0xBE335f2744d16a4f6FE21bE9D3A3D7229294aED0",
+      "address": "0x1F9430e035baEe04F79537731928DD94Ae0f6376",
       "symbol": "USDT",
       "name": "Tether",
       "decimals": 18,
@@ -148,7 +148,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x1E78F9fD79ce0B09e7080B9F7eB4357d8bB544Cb",
+      "address": "0x7A917c0f1E54dB363df03A8eFC8C852685d7e636",
       "symbol": "WBTC",
       "name": "Wrapped Bitcoin",
       "decimals": 18,
@@ -156,7 +156,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0x156eFf7f8e35a10eA9025885F8dC4eF462CFD83c",
+      "address": "0xFD398E6E137817Eb91A96F7bF916499eEBD8aE47",
       "symbol": "WBTC",
       "name": "Wrapped Bitcoin",
       "decimals": 18,
@@ -164,7 +164,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x4800b6a56cfBEDf02Ee0cc9d09db9A456bF95506",
+      "address": "0x86523E588EE1cbE7525215a87F26d3f71f1047d3",
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
@@ -172,7 +172,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0xD6e9Cd5ef382b0830653d1b2007D5Ca6987FaA26",
+      "address": "0xC23099A27DB42F5F09070Ac84c1C32143B5B59Fc",
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
