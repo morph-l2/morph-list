@@ -28,7 +28,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "address": "0x0000000000000000000000000000000000000000",
       "symbol": "ETH",
       "name": "Ethereum Token",
       "decimals": 18,
@@ -164,7 +164,7 @@
     },
     {
       "chainId": "900",
-      "address": "0x86523E588EE1cbE7525215a87F26d3f71f1047d3",
+      "address": "0xce0a9a0ea5cf0cd558c7b221d62f0faad4fd224f",
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
@@ -172,7 +172,7 @@
     },
     {
       "chainId": "53077",
-      "address": "0xC23099A27DB42F5F09070Ac84c1C32143B5B59Fc",
+      "address": "0x5300000000000000000000000000000000000011",
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
