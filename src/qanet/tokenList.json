@@ -164,7 +164,7 @@
     },
     {
       "chainId": "900",
-      "address": "0xce0a9a0ea5cf0cd558c7b221d62f0faad4fd224f",
+      "address": "0x07e2faeb321517aa95f37d56ef32730fb5f4efc5",
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
