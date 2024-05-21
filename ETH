@@ -1,0 +1,43 @@
+{
+  "name": "Bridge Token List",
+  "logoURI": "https://Morph.network/logo/bridge.png",
+  "keywords": [
+    "Morph",
+    "bridge",
+    "token"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "stablecoin",
+      "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+    },
+    "ethereum": {
+      "name": "ethereum",
+      "description": "Asset bridged from ethereum"
+    }
+  },
+  "timestamp": "2023-09-21T08:49:46Z",
+  "tokens": [
+    {
+      "chainId": "900",
+      "address": "0x0000000000000000000000000000000000000000",
+      "symbol": "ETH",
+      "name": "Ethereum Token",
+      "decimals": 18,
+      "logoURI": "https://Morph.network/logo/eth_logo.png"
+    },
+    {
+      "chainId": "53077",
+      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
+      "symbol": "ETH",
+      "name": "Ethereum Token",
+      "decimals": 18,
+      "logoURI": "https://Morph.network/logo/eth_logo.png"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}
