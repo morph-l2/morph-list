@@ -248,7 +248,7 @@
                 },
                 "gatewayAddress": {
                     "type": "string",
-                    "description": "The checksummed address of the token on the specified chain ID",
+                    "description": "The checksummed address of the token on the specified gateway ID",
                     "pattern": "^0x[a-fA-F0-9]{40}$",
                     "examples": [
                         "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
@@ -256,7 +256,7 @@
                 },
                 "gatewayName": {
                     "type": "string",
-                    "description": "The name of the token",
+                    "description": "The name of the gateway",
                     "minLength": 1,
                     "maxLength": 40,
                     "pattern": "^[ \\w.'+\\-%/À-ÖØ-öø-ÿ:&\\[\\]\\(\\)]+$",
