@@ -11,11 +11,15 @@ const (
 	SchemaFilePath       = "./src/token.schema.json"
 	DevNetTokenListPath  = "./src/devnet/tokenList.json"
 	TestNetTokenListPath = "./src/testnet/tokenList.json"
+	HoleskyTokenListPath = "./src/holesky/tokenList.json"
+	QAnetTokenListPath   = "./src/qanet/tokenList.json"
 )
 
 var CheckPath = [...]string{
 	DevNetTokenListPath,
 	TestNetTokenListPath,
+	HoleskyTokenListPath,
+	QAnetTokenListPath,
 }
 
 func main() {
