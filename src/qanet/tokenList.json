@@ -217,6 +217,26 @@
       "gatewayAddress": "0x5300000000000000000000000000000000000010",
       "gatewayName": "L2WETHGateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WETH.svg"
+    },
+    {
+      "chainId": "900",
+      "address": "0xc1354bce4DDA7d95708b07E5a58b81c4C883e726",
+      "symbol": "dai",
+      "name": "DAI",
+      "decimals": 18,
+      "gatewayAddress": "0xef2767f7cee66aa52a021c3a37de45f26babfb17",
+      "gatewayName": "L1StandardERC20Gateway",
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DAI.svg"
+    },
+    {
+      "chainId": "53077",
+      "address": "0x49b5c6609DB86D3B408c5869e6054930F702f8B3",
+      "symbol": "dai",
+      "name": "DAI",
+      "decimals": 18,
+      "gatewayAddress": "0x5300000000000000000000000000000000000008",
+      "gatewayName": "L2StandardERC20Gateway",
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DAI.svg"
     }
   ],
   "version": {
