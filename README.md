@@ -51,23 +51,27 @@ Add a file to your folder called data.json with the following format:
       "description": "Asset bridged from ethereum"
     }
   },
-  "timestamp": "2023-09-21T08:49:46Z",
+  "timestamp": "2024-08-01T08:49:46Z",
   "tokens": [
     {
       "chainId": "900",
-      "address": "0x0000000000000000000000000000000000000000",
-      "symbol": "ETH",
-      "name": "Ethereum Token",
+      "address": "Your L1 token address",
+      "symbol": "Your L1 token symbol",
+      "name": "Your L1 token name",
       "decimals": 18,
-      "logoURI": "https://Morph.network/logo/eth_logo.png"
+      "gatewayAddress": "The token gateway address, default is L1StandardERC20Gateway address",
+      "gatewayName": "The token gateway name, default is L1StandardERC20Gateway",
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/Your_logo_name.svg"
     },
     {
       "chainId": "53077",
-      "address": "0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000",
-      "symbol": "ETH",
-      "name": "Ethereum Token",
+      "address": "Your L2 token address",
+      "symbol": "Your L1 token name",
+      "name": "Your L1 token name",
       "decimals": 18,
-      "logoURI": "https://Morph.network/logo/eth_logo.png"
+      "gatewayAddress": "The token gateway address, default is L2StandardERC20Gateway address",
+      "gatewayName": "The token gateway name, default is L2StandardERC20Gateway",
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/Your_logo_name.svg"
     }
   ],
   "version": {
