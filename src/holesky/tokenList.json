@@ -16,7 +16,7 @@
       "description": "Asset bridged from ethereum"
     }
   },
-  "timestamp": "2023-12-18T03:49:46Z",
+  "timestamp": "2024-08-12T12:00:46Z",
   "tokens": [
     {
       "chainId": "17000",
@@ -24,6 +24,8 @@
       "symbol": "ETH",
       "name": "Ethereum Token",
       "decimals": 18,
+      "gatewayAddress": "0xcc3d455481967dc97346ef1771a112d7a14c8f12",
+      "gatewayName": "L1ETHGateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/ETH.svg"
     },
     {
@@ -32,6 +34,8 @@
       "symbol": "ETH",
       "name": "Ethereum Token",
       "decimals": 18,
+      "gatewayAddress": "0x5300000000000000000000000000000000000006",
+      "gatewayName": "L2ETHGateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/ETH.svg"
     },
     {
@@ -40,6 +44,8 @@
       "symbol": "DAI",
       "name": "Dai",
       "decimals": 18,
+      "gatewayAddress": "0xb26dafdb434ae93e3b8efde4f0193934955d86cd",
+      "gatewayName": "L1StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DAI.svg"
     },
     {
@@ -48,6 +54,8 @@
       "symbol": "DAI",
       "name": "Dai",
       "decimals": 18,
+      "gatewayAddress": "0x5300000000000000000000000000000000000008",
+      "gatewayName": "L2StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DAI.svg"
     },
     {
@@ -56,6 +64,8 @@
       "symbol": "DYDX",
       "name": "ETHDYDX",
       "decimals": 18,
+      "gatewayAddress": "0xb26dafdb434ae93e3b8efde4f0193934955d86cd",
+      "gatewayName": "L1StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DYDX.svg"
     },
     {
@@ -64,6 +74,8 @@
       "symbol": "DYDX",
       "name": "ETHDYDX",
       "decimals": 18,
+      "gatewayAddress": "0x5300000000000000000000000000000000000008",
+      "gatewayName": "L2StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DYDX.svg"
     },
     {
@@ -72,6 +84,8 @@
       "symbol": "LDO",
       "name": "Lido Dao",
       "decimals": 18,
+      "gatewayAddress": "0xb26dafdb434ae93e3b8efde4f0193934955d86cd",
+      "gatewayName": "L1StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/LDO.svg"
     },
     {
@@ -80,6 +94,8 @@
       "symbol": "LDO",
       "name": "Lido Dao",
       "decimals": 18,
+      "gatewayAddress": "0x5300000000000000000000000000000000000008",
+      "gatewayName": "L2StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/LDO.svg"
     },
     {
@@ -88,6 +104,8 @@
       "symbol": "LINK",
       "name": "Chainlink",
       "decimals": 18,
+      "gatewayAddress": "0xb26dafdb434ae93e3b8efde4f0193934955d86cd",
+      "gatewayName": "L1StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/LINK.svg"
     },
     {
@@ -96,6 +114,8 @@
       "symbol": "LINK",
       "name": "Chainlink",
       "decimals": 18,
+      "gatewayAddress": "0x5300000000000000000000000000000000000008",
+      "gatewayName": "L2StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/LINK.svg"
     },
     {
@@ -104,6 +124,8 @@
       "symbol": "MKR",
       "name": "Maker",
       "decimals": 18,
+      "gatewayAddress": "0xb26dafdb434ae93e3b8efde4f0193934955d86cd",
+      "gatewayName": "L1StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/MKR.svg"
     },
     {
@@ -112,6 +134,8 @@
       "symbol": "MKR",
       "name": "Maker",
       "decimals": 18,
+      "gatewayAddress": "0x5300000000000000000000000000000000000008",
+      "gatewayName": "L2StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/MKR.svg"
     },
     {
@@ -120,6 +144,8 @@
       "symbol": "UNI",
       "name": "Uniswap",
       "decimals": 18,
+      "gatewayAddress": "0xb26dafdb434ae93e3b8efde4f0193934955d86cd",
+      "gatewayName": "L1StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/UNI.svg"
     },
     {
@@ -128,6 +154,8 @@
       "symbol": "UNI",
       "name": "Uniswap",
       "decimals": 18,
+      "gatewayAddress": "0x5300000000000000000000000000000000000008",
+      "gatewayName": "L2StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/UNI.svg"
     },
     {
@@ -136,6 +164,8 @@
       "symbol": "USDT",
       "name": "Tether",
       "decimals": 18,
+      "gatewayAddress": "0xb26dafdb434ae93e3b8efde4f0193934955d86cd",
+      "gatewayName": "L1StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDT.svg"
     },
     {
@@ -144,6 +174,8 @@
       "symbol": "USDT",
       "name": "Tether",
       "decimals": 18,
+      "gatewayAddress": "0x5300000000000000000000000000000000000008",
+      "gatewayName": "L2StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDT.svg"
     },
     {
@@ -151,7 +183,9 @@
       "address": "0xeAB5D5f6EEC5d782d77892378C42fDb01172c986",
       "symbol": "WBTC",
       "name": "Wrapped Bitcoin",
-      "decimals": 18,
+      "decimals": 8,
+      "gatewayAddress": "0xb26dafdb434ae93e3b8efde4f0193934955d86cd",
+      "gatewayName": "L1StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WBTC.svg"
     },
     {
@@ -159,7 +193,9 @@
       "address": "0xa3D49e607cb5C40d2259877F2256C6DcD76aeFCd",
       "symbol": "WBTC",
       "name": "Wrapped Bitcoin",
-      "decimals": 18,
+      "decimals": 8,
+      "gatewayAddress": "0x5300000000000000000000000000000000000008",
+      "gatewayName": "L2StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WBTC.svg"
     },
     {
@@ -168,6 +204,8 @@
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
+      "gatewayAddress": "0xbbdb317b50313d96823eba0fc2c1d9e469dc1906",
+      "gatewayName": "L1WETHGateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WETH.svg"
     },
     {
@@ -176,6 +214,8 @@
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
+      "gatewayAddress": "0x5300000000000000000000000000000000000010",
+      "gatewayName": "L2WETHGateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WETH.svg"
     }
   ],
