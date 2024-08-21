@@ -200,11 +200,11 @@
     },
     {
       "chainId": "900",
-      "address": "0xfcf4cfdcad6b8d91fbe436195bf88bc96292dfa2",
+      "address": "0xb79d897ffbafdf08d1977cd89c3f0f669d83ef92",
       "symbol": "WETH",
       "name": "WETH",
       "decimals": 18,
-      "gatewayAddress": "0xce0a9a0ea5cf0cd558c7b221d62f0faad4fd224f",
+      "gatewayAddress": "0x5d53071b1d5f8c685a9292c5a0edd39aec9cb36c",
       "gatewayName": "L1WETHGateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WETH.svg"
     },
