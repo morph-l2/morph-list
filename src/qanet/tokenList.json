@@ -183,7 +183,7 @@
         "address": "0xcC2112F98A275A3B1478fec2A270883B1702F3b2",
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
-        "decimals": 18,
+        "decimals": 8,
         "gatewayAddress": "0x29da43f85d61ef91f28b35caf94bfc3d5db9d7c5",
         "gatewayName": "L1StandardERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WBTC.svg"
@@ -193,7 +193,7 @@
         "address": "0x2A6d1771a53C57388F7f95fa104b5a4870dEA096",
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
-        "decimals": 18,
+        "decimals": 8,
         "gatewayAddress": "0x5300000000000000000000000000000000000008",
         "gatewayName": "L2StandardERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WBTC.svg"
