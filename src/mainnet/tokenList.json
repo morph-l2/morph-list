@@ -1,0 +1,48 @@
+{
+    "name": "Bridge Token List",
+    "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/bridgeIcos/morph_bridge.svg",
+    "keywords": [
+      "morph",
+      "bridge",
+      "token"
+    ],
+    "tags": {
+      "stablecoin": {
+        "name": "stablecoin",
+        "description": "Tokens that are fixed to an external asset, e.g. the US dollar"
+      },
+      "ethereum": {
+        "name": "ethereum",
+        "description": "Asset bridged from ethereum"
+      }
+    },
+    "timestamp": "2024-10-21T12:00:46Z",
+    "tokens": [
+      {
+        "chainId": "1",
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum Token",
+        "decimals": 18,
+        "gatewayAddress": "0x1c1ffb5828c3a48b54e8910f1c75256a498ade68",
+        "gatewayName": "L1ETHGateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/ETH.svg"
+      },
+      {
+        "chainId": "2818",
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "ETH",
+        "name": "Ethereum Token",
+        "decimals": 18,
+        "gatewayAddress": "0x5300000000000000000000000000000000000006",
+        "gatewayName": "L2ETHGateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/ETH.svg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+  }
+  
