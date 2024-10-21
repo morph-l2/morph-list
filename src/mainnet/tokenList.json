@@ -44,7 +44,7 @@
         "symbol": "USDT",
         "name": "Tether",
         "decimals": 18,
-        "gatewayAddress": "0x44c28f61a5c2dd24fc71d7df8e85e18af4ab2bd8",
+        "gatewayAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7",
         "gatewayName": "L1StandardERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDT.svg"
       },
@@ -54,7 +54,7 @@
         "symbol": "USDT",
         "name": "Tether",
         "decimals": 18,
-        "gatewayAddress": "0x5300000000000000000000000000000000000008",
+        "gatewayAddress": "0xc7D67A9cBB121b3b0b9c053DD9f469523243379A",
         "gatewayName": "L2StandardERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDT.svg"
       },
@@ -74,7 +74,7 @@
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "decimals": 8,
-        "gatewayAddress": "0x5300000000000000000000000000000000000008",
+        "gatewayAddress": "0x803DcE4D3f4Ae2e17AF6C51343040dEe320C149D",
         "gatewayName": "L2StandardERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WBTC.svg"
       },
