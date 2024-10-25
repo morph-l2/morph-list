@@ -226,7 +226,7 @@
       "decimals": 18,
       "gatewayAddress": "0xf0a602437429738ADa05F60287Fb2e8F93d02C85",
       "gatewayName": "L1LidoGateway",
-      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/wstETH.svg",
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/wstETH.svg"
     },
     {
       "chainId": "2810",
