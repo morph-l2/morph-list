@@ -277,6 +277,26 @@
       "gatewayAddress": "0x5300000000000000000000000000000000000020",
       "gatewayName": "L2USDCGateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
+    },
+    {
+      "chainId": "17000",
+      "address": "0x3b09bced482411a88D3AF0b884E84701D7637eA3",
+      "symbol": "WstETH",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "decimals": 18,
+      "gatewayAddress": "0xae9aA78222Ca3b6D1C38dF167D1F4f9B8fD7aC8a",
+      "gatewayName": "L1LidoGateway",
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/wstETH.svg"
+    },
+    {
+      "chainId": "2810",
+      "address": "0x8E0f85515ec4412483b68DeA14661A86741cdC0a",
+      "symbol": "WstETH",
+      "name": "Wrapped liquid staked Ether 2.0",
+      "decimals": 18,
+      "gatewayAddress": "0x45C0FFB5b9710B512B819058b7b9dDE839608D43",
+      "gatewayName": "L2LidoGateway",
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/wstETH.svg"
     }
   ],
   "version": {
