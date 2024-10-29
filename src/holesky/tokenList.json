@@ -221,7 +221,7 @@
     {
       "chainId": "17000",
       "address": "0xb652f1757Ce2209e002d6Ece119a0B62e48990C8",
-      "symbol": "L1RCE20",
+      "symbol": "RCE20",
       "name": "L1ReverseCustomERC20",
       "decimals": 18,
       "gatewayAddress": "0x8C895c98c769DAA4Fb346EE433a718b017228515",
@@ -231,7 +231,7 @@
     {
       "chainId": "2810",
       "address": "0xfc1084Fdac6Edcda848345d2c713eAAacF9f3F76",
-      "symbol": "L2RCE20",
+      "symbol": "RCE20",
       "name": "L2ReverseCustomERC20",
       "decimals": 18,
       "gatewayAddress": "0x5300000000000000000000000000000000000018",
@@ -241,7 +241,7 @@
     {
       "chainId": "17000",
       "address": "0x7A0E51E4465A3158d6daEfF3fF383aD5fECD5094",
-      "symbol": "L1WDLE20",
+      "symbol": "WDLE20",
       "name": "L1WithdrawLockERC20",
       "decimals": 18,
       "gatewayAddress": "0x63bC9aB207B01C39ea5f3C1403A5b0C7A11b6960",
@@ -251,7 +251,7 @@
     {
       "chainId": "2810",
       "address": "0xfe8748CF6739022f854Ca05Aa0Afb8a9556Da112",
-      "symbol": "L2WDLE20",
+      "symbol": "WDLE20",
       "name": "L2WithdrawLockERC20",
       "decimals": 18,
       "gatewayAddress": "0x5300000000000000000000000000000000000019",
