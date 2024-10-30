@@ -221,7 +221,7 @@
     {
       "chainId": "17000",
       "address": "0xb652f1757Ce2209e002d6Ece119a0B62e48990C8",
-      "symbol": "RCE20",
+      "symbol": "RCERC20",
       "name": "L1ReverseCustomERC20",
       "decimals": 18,
       "gatewayAddress": "0x8C895c98c769DAA4Fb346EE433a718b017228515",
@@ -231,7 +231,7 @@
     {
       "chainId": "2810",
       "address": "0xfc1084Fdac6Edcda848345d2c713eAAacF9f3F76",
-      "symbol": "RCE20",
+      "symbol": "RCERC20",
       "name": "L2ReverseCustomERC20",
       "decimals": 18,
       "gatewayAddress": "0x5300000000000000000000000000000000000018",
