@@ -137,7 +137,7 @@
         "gatewayAddress": "0x5300000000000000000000000000000000000016",
         "gatewayName": "L2CustomERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DAI.svg"
-      },
+      }
     ],
     "version": {
       "major": 0,
