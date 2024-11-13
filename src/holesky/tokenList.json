@@ -261,8 +261,8 @@
     {
       "chainId": "17000",
       "address": "0xC9F35F0DAe8Aff609406231FF5090A8EB19F6B21",
-      "symbol": "USDC",
-      "name": "USDC",
+      "symbol": "legacyUSDC",
+      "name": "legacyUSDC",
       "decimals": 6,
       "gatewayAddress": "0x70A677Cbf3433c7a92293c3da8E2D10D7174BF07",
       "gatewayName": "L1USDCGateway",
@@ -271,10 +271,30 @@
     {
       "chainId": "2810",
       "address": "0x2E7bBC73797a5d449C0991E015BB1045eFc4ab2f",
-      "symbol": "USDC",
-      "name": "USDC Coin",
+      "symbol": "legacyUSDC",
+      "name": "legacyUSDC",
       "decimals": 6,
       "gatewayAddress": "0x5300000000000000000000000000000000000020",
+      "gatewayName": "L2USDCGateway",
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
+    },
+    {
+      "chainId": "17000",
+      "address": "0xC9F35F0DAe8Aff609406231FF5090A8EB19F6B21",
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 6,
+      "gatewayAddress": "0xee8EA0d8537D9d5dC25DdD23755d29232BFb56ff",
+      "gatewayName": "L1USDCGateway",
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
+    },
+    {
+      "chainId": "2810",
+      "address": "0xeA2610c28B4c5857689EAFa8b2116a617206d283",
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 6,
+      "gatewayAddress": "0x9890B1Efc04F39DcbF7D2218250ac1291A767AD6",
       "gatewayName": "L2USDCGateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
     },

@@ -241,8 +241,8 @@
       {
         "chainId": "900",
         "address": "0x04ff2E5aB4cfa795a13E54b9c1FE88022f6e3daB",
-        "symbol": "LegycUSDC",
-        "name": "LegycUSDC",
+        "symbol": "legacyUSDC",
+        "name": "legacyUSDC",
         "decimals": 6,
         "gatewayAddress": "0x25A512d392aCF174cc66413eE353766c9404CbFC",
         "gatewayName": "L1USDCGateway",
@@ -251,7 +251,7 @@
       {
         "chainId": "53077",
         "address": "0xcee5eCd734a4E90a2f4fFae4Bcc050D40D370c47",
-        "symbol": "LegycUSDC",
+        "symbol": "LegacyUSDC",
         "name": "LegacyUSDC",
         "decimals": 6,
         "gatewayAddress": "0x5300000000000000000000000000000000000020",
