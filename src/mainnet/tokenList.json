@@ -104,7 +104,7 @@
         "symbol": "LegacyUSDC",
         "name": "LegacyUSDC",
         "decimals": 6,
-        "gatewayAddress": "0xc5e44E2fFe9523809146eD17D62bb382ECCf426B",
+        "gatewayAddress": "0x2C8314f5AADa5D7a9D32eeFebFc43aCCAbe1b289",
         "gatewayName": "L1USDCGateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
       },
