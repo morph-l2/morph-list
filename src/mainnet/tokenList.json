@@ -157,6 +157,26 @@
         "gatewayAddress": "0x5300000000000000000000000000000000000016",
         "gatewayName": "L2CustomERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DAI.svg"
+      },
+      {
+        "chainId": "1",
+        "address": "0x54D2252757e1672EEaD234D27B1270728fF90581",
+        "symbol": "BGB",
+        "name": "BitgetToken",
+        "decimals": 18,
+        "gatewayAddress": "0x44c28f61a5c2dd24fc71d7df8e85e18af4ab2bd8",
+        "gatewayName": "L1StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGB.svg"
+      },
+      {
+        "chainId": "2818",
+        "address": "0x55d1f1879969bdbB9960d269974564C58DBc3238",
+        "symbol": "BGB",
+        "name": "BitgetToken",
+        "decimals": 18,
+        "gatewayAddress": "0x5300000000000000000000000000000000000008",
+        "gatewayName": "L2StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGB.svg"
       }
     ],
     "version": {
