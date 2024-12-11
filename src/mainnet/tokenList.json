@@ -177,6 +177,46 @@
         "gatewayAddress": "0x5300000000000000000000000000000000000008",
         "gatewayName": "L2StandardERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGB.svg"
+      },
+      {
+        "chainId": "1",
+        "address": "0x11eeF04c884E24d9B7B4760e7476D06ddF797f36",
+        "symbol": "MX",
+        "name": "MX Token",
+        "decimals": 18,
+        "gatewayAddress": "0x44c28f61a5c2dd24fc71d7df8e85e18af4ab2bd8",
+        "gatewayName": "L1StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/MX.svg"
+      },
+      {
+        "chainId": "2818",
+        "address": "0x0BEeF4B01281D85492713a015d51fEc5b6D14687",
+        "symbol": "MX",
+        "name": "MX Token",
+        "decimals": 18,
+        "gatewayAddress": "0x5300000000000000000000000000000000000008",
+        "gatewayName": "L2StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/MX.svg"
+      },
+      {
+        "chainId": "1",
+        "address": "0xE66747a101bFF2dBA3697199DCcE5b743b454759",
+        "symbol": "GT",
+        "name": "GateChainToken",
+        "decimals": 18,
+        "gatewayAddress": "0x44c28f61a5c2dd24fc71d7df8e85e18af4ab2bd8",
+        "gatewayName": "L1StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/GT.svg"
+      },
+      {
+        "chainId": "2818",
+        "address": "0x37d9A4d0b8B920CB2502dE3cA11c2227F4ADAcE9",
+        "symbol": "GT",
+        "name": "GateChainToken",
+        "decimals": 18,
+        "gatewayAddress": "0x5300000000000000000000000000000000000008",
+        "gatewayName": "L2StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/GT.svg"
       }
     ],
     "version": {
