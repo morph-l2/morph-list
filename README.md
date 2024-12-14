@@ -8,7 +8,7 @@ It's open for anyone to add a token to the list. However, it's important to unde
 Process overview
 1. To include your token in the list, follow the steps provided below to create a PR.
 2. Once a reviewer gives their approval to your PR, it will be merged automatically.
-
+3. The `.gitignore` file has been updated to remove the duplicate `.idea/` entry.
 
 Note: The standard bridge does not support certain ERC-20 configurations: 
 - Fee on transfer tokens
