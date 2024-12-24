@@ -217,6 +217,46 @@
         "gatewayAddress": "0x5300000000000000000000000000000000000008",
         "gatewayName": "L2StandardERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/GT.svg"
+      },
+      {
+        "chainId": "1",
+        "address": "0x61ec85ab89377db65762e234c946b5c25a56e99e",
+        "symbol": "HTX",
+        "name": "HTX",
+        "decimals": 18,
+        "gatewayAddress": "0x44c28f61a5c2dd24fc71d7df8e85e18af4ab2bd8",
+        "gatewayName": "L1StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/HTX.svg"
+      },
+      {
+        "chainId": "2818",
+        "address": "0xD4eA4A71815D6999D1e28658f6E2d514BB356fA1",
+        "symbol": "HTX",
+        "name": "HTX",
+        "decimals": 18,
+        "gatewayAddress": "0x5300000000000000000000000000000000000008",
+        "gatewayName": "L2StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/HTX.svg"
+      },
+      {
+        "chainId": "1",
+        "address": "0x6f259637dcd74c767781e37bc6133cd6a68aa161",
+        "symbol": "HT",
+        "name": "HuobiToken",
+        "decimals": 18,
+        "gatewayAddress": "0x44c28f61a5c2dd24fc71d7df8e85e18af4ab2bd8",
+        "gatewayName": "L1StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/HT.svg"
+      },
+      {
+        "chainId": "2818",
+        "address": "0x18e6C1Fdf768B25778eAA4Bf4f4c66c27c5128f6",
+        "symbol": "HT",
+        "name": "HuobiToken",
+        "decimals": 18,
+        "gatewayAddress": "0x5300000000000000000000000000000000000008",
+        "gatewayName": "L2StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/HT.svg"
       }
     ],
     "version": {
