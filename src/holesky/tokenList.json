@@ -397,6 +397,26 @@
       "gatewayAddress": "0x5300000000000000000000000000000000000008",
       "gatewayName": "L2StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/MX.svg"
+    }, 
+    {
+      "chainId": "17000",
+      "address": "0xB3608381E9ed8a3846E632b2b48849d0cd091c06",
+      "symbol": "SERC20",
+      "name": "SimpleERC20",
+      "decimals": 18,
+      "gatewayAddress": "0x0A7Da6b199C8566B7F47Ab890649034f169eFe73",
+      "gatewayName": "L1CustomERC20Gateway",
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/CSTM.svg"
+    },
+    {
+      "chainId": "2810",
+      "address": "0xB148E3a25e54dD6BE8A64fFAf644239E3d8Ab3DB",
+      "symbol": "SERC20",
+      "name": "SimpleERC20",
+      "decimals": 18,
+      "gatewayAddress": "0x5300000000000000000000000000000000000016",
+      "gatewayName": "L2CustomERC20Gateway",
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/CSTM.svg"
     }
   ],
   "version": {
