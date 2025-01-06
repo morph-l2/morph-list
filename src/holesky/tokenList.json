@@ -306,7 +306,7 @@
       "decimals": 18,
       "gatewayAddress": "0xae9aA78222Ca3b6D1C38dF167D1F4f9B8fD7aC8a",
       "gatewayName": "L1LidoGateway",
-      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/wstETH.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WSTETH.svg"
     },
     {
       "chainId": "2810",
@@ -316,7 +316,7 @@
       "decimals": 18,
       "gatewayAddress": "0x45C0FFB5b9710B512B819058b7b9dDE839608D43",
       "gatewayName": "L2LidoGateway",
-      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/wstETH.svg"
+      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WSTETH.svg"
     },
     {
       "chainId": "17000",

@@ -266,7 +266,7 @@
         "decimals": 18,
         "gatewayAddress": "0x2bd5C854293be53Be7841476B588446cD7d038b7",
         "gatewayName": "L1LidoGateway",
-        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/wstETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WSTETH.svg"
       },
       {
         "chainId": "53077",
@@ -276,7 +276,7 @@
         "decimals": 18,
         "gatewayAddress": "0x0538D016938E4297566DE3910c9F1c3037FEc4C5",
         "gatewayName": "L2LidoGateway",
-        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/wstETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WSTETH.svg"
       },
       {
         "chainId": "900",
@@ -286,7 +286,7 @@
         "decimals": 18,
         "gatewayAddress": "0xf53e5d3821c422bc6a9162aa2c383c4de00bda13",
         "gatewayName": "L1CustomERC20Gateway",
-        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/wstETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WSTETH.svg"
       },
       {
         "chainId": "53077",
@@ -296,7 +296,7 @@
         "decimals": 18,
         "gatewayAddress": "0x5300000000000000000000000000000000000016",
         "gatewayName": "L2CustomERC20Gateway",
-        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/wstETH.svg"
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WSTETH.svg"
       }
     ],
     "version": {
