@@ -40,7 +40,7 @@
       },
       {
         "chainId": "900",
-        "address": "0x6EDA4e0525C8c9803a5b8D2f16654ac1795818c5",
+        "address": "0xF9d6EAef110Ff617E1634EBb7A950374D44fAa4C",
         "symbol": "DAI",
         "name": "Dai",
         "decimals": 18,
@@ -50,7 +50,7 @@
       },
       {
         "chainId": "53077",
-        "address": "0x960D904559087d8eB4cA42bfd61ee9d780D90f8e",
+        "address": "0xd4FBe9F11db415f39b8edA2fc5AdD22474d8F31e",
         "symbol": "DAI",
         "name": "Dai",
         "decimals": 18,
@@ -60,7 +60,7 @@
       },
       {
         "chainId": "900",
-        "address": "0x86523E588EE1cbE7525215a87F26d3f71f1047d3",
+        "address": "0xf00f4DeCFEAf56872BaD3139c787fE44549B2B51",
         "symbol": "DYDX",
         "name": "ETHDYDX",
         "decimals": 18,
@@ -70,7 +70,7 @@
       },
       {
         "chainId": "53077",
-        "address": "0xC23099A27DB42F5F09070Ac84c1C32143B5B59Fc",
+        "address": "0x150FE613A6DFB6a0c1CE3FDD716E5A1F4812d08d",
         "symbol": "DYDX",
         "name": "ETHDYDX",
         "decimals": 18,
@@ -80,7 +80,7 @@
       },
       {
         "chainId": "900",
-        "address": "0x5F4c7D793D898e64eddd1fC82D27EcfB5F6e4596",
+        "address": "0x0523dF3a8239eA91634C2f5e00Bb6A84D86EEfCf",
         "symbol": "LDO",
         "name": "Lido Dao",
         "decimals": 18,
@@ -90,7 +90,7 @@
       },
       {
         "chainId": "53077",
-        "address": "0xAfc63f9BF76c5423a858624C2A9E8C97ff31aec9",
+        "address": "0x8f70Dd8953fe5DE3762769Ce5bC8ec6482e4fEa2",
         "symbol": "LDO",
         "name": "Lido Dao",
         "decimals": 18,
@@ -100,7 +100,7 @@
       },
       {
         "chainId": "900",
-        "address": "0x5B8140d6AE265288bc93C220E557D4793353F3C9",
+        "address": "0x48CA0100dD6107B86da025f624fDf8D86AE5a940",
         "symbol": "LINK",
         "name": "Chainlink",
         "decimals": 18,
@@ -110,7 +110,7 @@
       },
       {
         "chainId": "53077",
-        "address": "0xc73E1dA7A022808BB4cFF76506C079D6d56f5E46",
+        "address": "0xC4abdE7049Ca4828E23476d4d41322D8028AEbFc",
         "symbol": "LINK",
         "name": "Chainlink",
         "decimals": 18,
@@ -120,7 +120,7 @@
       },
       {
         "chainId": "900",
-        "address": "0x184B994827F5f5b3499b340050b74A672c6a2710",
+        "address": "0xcdFB05990A55F6A1e5A9668f31E7eba11b8960e6",
         "symbol": "MKR",
         "name": "Maker",
         "decimals": 18,
@@ -130,7 +130,7 @@
       },
       {
         "chainId": "53077",
-        "address": "0xAfc63f9BF76c5423a858624C2A9E8C97ff31aec9",
+        "address": "0x8f70Dd8953fe5DE3762769Ce5bC8ec6482e4fEa2",
         "symbol": "MKR",
         "name": "Maker",
         "decimals": 18,
@@ -140,7 +140,7 @@
       },
       {
         "chainId": "900",
-        "address": "0x71C34b3Ab60ceC7B8F666ee89076cD3f9367132d",
+        "address": "0xc3DB1D2f71Ea0472Eb856a86185f9f486Fa27B65",
         "symbol": "UNI",
         "name": "Uniswap",
         "decimals": 18,
@@ -150,7 +150,7 @@
       },
       {
         "chainId": "53077",
-        "address": "0x8B55A38FF949E922212a485778FBdDD672f42020",
+        "address": "0x241B239F7615f3694a2b497BC51C3AD22DF1ecf3",
         "symbol": "UNI",
         "name": "Uniswap",
         "decimals": 18,
@@ -160,7 +160,7 @@
       },
       {
         "chainId": "900",
-        "address": "0xF6B0A885FF502aD549986916B8B70fb229340dE7",
+        "address": "0x396d6a12469A472928AD7749BA9A36c8f718De11",
         "symbol": "USDT",
         "name": "Tether",
         "decimals": 18,
@@ -170,7 +170,7 @@
       },
       {
         "chainId": "53077",
-        "address": "0x734c329B7a9b00C0149026bD3ADD42fe4F56B5cD",
+        "address": "0x1080935e6449f19FdBC38AA7B9375241869F1d3b",
         "symbol": "USDT",
         "name": "Tether",
         "decimals": 18,
@@ -180,7 +180,7 @@
       },
       {
         "chainId": "900",
-        "address": "0xcC2112F98A275A3B1478fec2A270883B1702F3b2",
+        "address": "0x97d1D2b419425D3A28dc39Ca9461A5c02f1741ee",
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "decimals": 8,
@@ -190,7 +190,7 @@
       },
       {
         "chainId": "53077",
-        "address": "0x2A6d1771a53C57388F7f95fa104b5a4870dEA096",
+        "address": "0xDa55f4528b36e98B2311D3a081d901B2d6f745c7",
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
         "decimals": 8,
@@ -200,7 +200,7 @@
       },
       {
         "chainId": "900",
-        "address": "0xb5b7e1292b5bc6a8a5862b04df04a2d4026381f7",
+        "address": "0xdc91319d3c84e2abd7494b73c21e814bfe7c316f",
         "symbol": "WETH",
         "name": "WETH",
         "decimals": 18,
@@ -235,26 +235,6 @@
         "name": "USDC",
         "decimals": 6,
         "gatewayAddress": "0x69a320a863215cf65799Ec0014fA304633f70cac",
-        "gatewayName": "L2USDCGateway",
-        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
-      },
-      {
-        "chainId": "900",
-        "address": "0x04ff2E5aB4cfa795a13E54b9c1FE88022f6e3daB",
-        "symbol": "legacyUSDC",
-        "name": "legacyUSDC",
-        "decimals": 6,
-        "gatewayAddress": "0xccc7a48a7851c4217b9d0d12773add39f372075d",
-        "gatewayName": "L1USDCGateway",
-        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
-      },
-      {
-        "chainId": "53077",
-        "address": "0xcee5eCd734a4E90a2f4fFae4Bcc050D40D370c47",
-        "symbol": "LegacyUSDC",
-        "name": "LegacyUSDC",
-        "decimals": 6,
-        "gatewayAddress": "0x5300000000000000000000000000000000000020",
         "gatewayName": "L2USDCGateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
       },
