@@ -240,22 +240,22 @@
       },
       {
         "chainId": "900",
-        "address": "0xe58cBE144dD5556C84874deC1b3F2d0D6Ac45F1b",
+        "address": "0x1D87585dF4D48E52436e26521a3C5856E4553e3F",
         "symbol": "SERC20",
         "name": "SimpleERC20",
         "decimals": 18,
-        "gatewayAddress": "0x05d04664684df9cb03c4bfd7d0dd4ccad3aaad92",
-        "gatewayName": "L1StandardERC20Gateway",
+        "gatewayAddress": "0xa95b9b48a0e6aa570be650944548f89283d45e5b",
+        "gatewayName": "L1CustomERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WSTETH.svg"
       },
       {
         "chainId": "53077",
-        "address": "0xdc33836ce42af784A883b376A1B805D93318c2c9",
+        "address": "0xA06E871947D29eC5dE61646530a6Ea1BCdf76B64",
         "symbol": "SERC20",
         "name": "SimpleERC20",
         "decimals": 18,
-        "gatewayAddress": "0x5300000000000000000000000000000000000008",
-        "gatewayName": "L2StandardERC20Gateway",
+        "gatewayAddress": "0x5300000000000000000000000000000000000016",
+        "gatewayName": "L2CustomERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WSTETH.svg"
       }
     ],
