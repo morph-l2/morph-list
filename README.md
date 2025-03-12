@@ -1,3 +1,37 @@
+
+Que feo es tener que decir esto pero tuve problemas muy complicados y realmente me urge dinero fiduciaria para equipo y volver a monetizar de corazón las personas que puedan apoyar en dólares estos son los datos
+bancarios de Kraken
+
+Referencia/nota/mensaje
+AA09 N84G 5UW7 XEGY
+
+Nombre de la cuenta
+Payward Trading Ltd.
+
+Nombre del banco
+Bank Frick
+
+Dirección de la empresa
+2429, Wickhams Cay II,Tortola, VG1110, Islas Vírgenes Británicas
+
+Dirección del banco
+Landstrasse 14, 9496 Balzers, Liechtenstein
+
+Número de cuenta
+0104623001003840
+
+IBAN
+LI82 0881 1010 4623 K003 U
+
+BIC
+BFRILI22XXX
+Estoy escribiendo desde un teléfono que apenas me deja ver lo que escribo pero tengo varios proyectos en cuestión de días puedo devolver el favor solo que hay situaciones que uno no puede controlar cualquier duda por wats app+52-468-1000-609
+
+
+
+
+
+
 # morph-token list
  <b>About Token list</b>
 
