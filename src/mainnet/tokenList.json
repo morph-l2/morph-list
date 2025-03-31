@@ -257,6 +257,26 @@
         "gatewayAddress": "0x5300000000000000000000000000000000000008",
         "gatewayName": "L2StandardERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/HT.svg"
+      },
+      {
+        "chainId": "1",
+        "address": "0x0520930f21b14cafac7a27b102487bee7138a017",
+        "symbol": "BGBTC",
+        "name": "Bitget Wrapped BTC",
+        "decimals": 8,
+        "gatewayAddress": "0x44c28f61a5c2dd24fc71d7df8e85e18af4ab2bd8",
+        "gatewayName": "L1StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGBTC.svg"
+      },
+      {
+        "chainId": "2818",
+        "address": "0x34951712c39d6284eC1afF60798C2E01E7cfB8eF",
+        "symbol": "BGBTC",
+        "name": "Bitget Wrapped BTC",
+        "decimals": 8,
+        "gatewayAddress": "0x5300000000000000000000000000000000000008",
+        "gatewayName": "L2StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGBTC.svg"
       }
     ],
     "version": {
