@@ -277,6 +277,26 @@
         "gatewayAddress": "0x5300000000000000000000000000000000000008",
         "gatewayName": "L2StandardERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGBTC.svg"
+      },
+      {
+        "chainId": "1",
+        "address": "0xd7D9BaBf56A66dAFF2aC5dc96F7e886c05124676",
+        "symbol": "OMZ",
+        "name": "Open Meta City",
+        "decimals": 18,
+        "gatewayAddress": "0x44c28f61a5c2dd24fc71d7df8e85e18af4ab2bd8",
+        "gatewayName": "L1StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/data/OMZ/logo.svg"
+      },
+      {
+        "chainId": "2818",
+        "address": "0xAA4353dA53DE0202119b5315109130D8E4aCDe17",
+        "symbol": "OMZ",
+        "name": "Open Meta City",
+        "decimals": 18,
+        "gatewayAddress": "0x5300000000000000000000000000000000000008",
+        "gatewayName": "L2StandardERC20Gateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/data/OMZ/logo.svg"
       }
     ],
     "version": {
