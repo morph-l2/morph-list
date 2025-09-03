@@ -286,7 +286,7 @@
         "decimals": 18,
         "gatewayAddress": "0x44c28f61a5c2dd24fc71d7df8e85e18af4ab2bd8",
         "gatewayName": "L1StandardERC20Gateway",
-        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/data/OMZ/logo.svg"
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/OMZ.svg"
       },
       {
         "chainId": "2818",
@@ -296,7 +296,27 @@
         "decimals": 18,
         "gatewayAddress": "0x5300000000000000000000000000000000000008",
         "gatewayName": "L2StandardERC20Gateway",
-        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/data/OMZ/logo.svg"
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/OMZ.svg"
+      },
+      {
+        "chainId": "1",
+        "address": "0x42a430b94ac81d8f9acad82ad96bb73183b0381b",
+        "symbol": "MPHP",
+        "name": "Morph Placeholder Token",
+        "decimals": 18,
+        "gatewayAddress": "0x6c5c4e930b7b53f482b2f2ed5f37cf78c15a9388",
+        "gatewayName": "L1ReverseCustomGateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/EMPTY.svg"
+      },
+      {
+        "chainId": "2818",
+        "address": "0x5300000000000000000000000000000000000013",
+        "symbol": "MPHP",
+        "name": "Morph Placeholder Token",
+        "decimals": 18,
+        "gatewayAddress": "0x5300000000000000000000000000000000000018",
+        "gatewayName": "L2ReverseCustomGateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/EMPTY.svg"
       }
     ],
     "version": {
