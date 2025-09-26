@@ -163,7 +163,7 @@
       "address": "0x44f294B7C75117587C9FA93cCAb1CADEE1b2971e",
       "symbol": "USDT",
       "name": "Tether",
-      "decimals": 18,
+      "decimals": 6,
       "gatewayAddress": "0x2d14dcfa6c0ecec2b9bbe8c2ee0e422d0a3d60ff",
       "gatewayName": "L1StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDT.svg"
@@ -173,7 +173,7 @@
       "address": "0xF48EFcDb83c8478528bDDe96f1B8c736BBF5BC87",
       "symbol": "USDT",
       "name": "Tether",
-      "decimals": 18,
+      "decimals": 6,
       "gatewayAddress": "0x5300000000000000000000000000000000000008",
       "gatewayName": "L2StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDT.svg"
