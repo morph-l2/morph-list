@@ -100,26 +100,6 @@
       },
       {
         "chainId": "900",
-        "address": "0xfd4E279b4F5387caBdE845297C5Dfa29B8003eCa",
-        "symbol": "MKR",
-        "name": "Maker",
-        "decimals": 18,
-        "gatewayAddress": "0xf73f8b21f6f4599b97bb1f7c539c77a8dfbaa9fc",
-        "gatewayName": "L1StandardERC20Gateway",
-        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/MKR.svg"
-      },
-      {
-        "chainId": "53077",
-        "address": "0x1D5A91E61cA45E3334d6C44a0090F0c3bc96feCd",
-        "symbol": "MKR",
-        "name": "Maker",
-        "decimals": 18,
-        "gatewayAddress": "0x5300000000000000000000000000000000000008",
-        "gatewayName": "L2StandardERC20Gateway",
-        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/MKR.svg"
-      },
-      {
-        "chainId": "900",
         "address": "0x7de0a81C134Ced4E8F6D9cC154DE8598079F1899",
         "symbol": "UNI",
         "name": "Uniswap",

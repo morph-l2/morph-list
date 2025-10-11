@@ -80,26 +80,6 @@
     },
     {
       "chainId": "560048",
-      "address": "0xBE335f2744d16a4f6FE21bE9D3A3D7229294aED0",
-      "symbol": "LDO",
-      "name": "Lido Dao",
-      "decimals": 18,
-      "gatewayAddress": "0x2d14dcfa6c0ecec2b9bbe8c2ee0e422d0a3d60ff",
-      "gatewayName": "L1StandardERC20Gateway",
-      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/LDO.svg"
-    },
-    {
-      "chainId": "2910",
-      "address": "0x24C96Db30f7B6cB6e02444a1aF505aA23782adeb",
-      "symbol": "LDO",
-      "name": "Lido Dao",
-      "decimals": 18,
-      "gatewayAddress": "0x5300000000000000000000000000000000000008",
-      "gatewayName": "L2StandardERC20Gateway",
-      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/LDO.svg"
-    },
-    {
-      "chainId": "560048",
       "address": "0xD6e9Cd5ef382b0830653d1b2007D5Ca6987FaA26",
       "symbol": "LINK",
       "name": "Chainlink",
@@ -117,26 +97,6 @@
       "gatewayAddress": "0x5300000000000000000000000000000000000008",
       "gatewayName": "L2StandardERC20Gateway",
       "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/LINK.svg"
-    },
-    {
-      "chainId": "560048",
-      "address": "0xeAB5D5f6EEC5d782d77892378C42fDb01172c986",
-      "symbol": "MKR",
-      "name": "Maker",
-      "decimals": 18,
-      "gatewayAddress": "0x2d14dcfa6c0ecec2b9bbe8c2ee0e422d0a3d60ff",
-      "gatewayName": "L1StandardERC20Gateway",
-      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/MKR.svg"
-    },
-    {
-      "chainId": "2910",
-      "address": "0x24C96Db30f7B6cB6e02444a1aF505aA23782adeb",
-      "symbol": "MKR",
-      "name": "Maker",
-      "decimals": 18,
-      "gatewayAddress": "0x5300000000000000000000000000000000000008",
-      "gatewayName": "L2StandardERC20Gateway",
-      "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/MKR.svg"
     },
     {
       "chainId": "560048",
