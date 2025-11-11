@@ -120,7 +120,7 @@
     },
     {
       "chainId": "560048",
-      "address": "0x44f294B7C75117587C9FA93cCAb1CADEE1b2971e",
+      "address": "0xA45518E73FF08c58FeBB116FB9763811C0f09c02",
       "symbol": "USDT",
       "name": "Tether",
       "decimals": 6,
@@ -130,7 +130,7 @@
     },
     {
       "chainId": "2910",
-      "address": "0xF48EFcDb83c8478528bDDe96f1B8c736BBF5BC87",
+      "address": "0xb646c743B4BA47ac03Bee360BB2484Fb55Db8d7e",
       "symbol": "USDT",
       "name": "Tether",
       "decimals": 6,

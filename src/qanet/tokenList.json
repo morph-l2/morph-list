@@ -19,7 +19,7 @@
     "timestamp": "2025-11-11T12:13:46Z",
     "tokens": [
       {
-        "chainId": "900",
+        "chainId": "560048",
         "address": "0x0000000000000000000000000000000000000000",
         "symbol": "ETH",
         "name": "Ethereum Token",
@@ -39,7 +39,7 @@
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/ETH.svg"
       },
       {
-        "chainId": "900",
+        "chainId": "560048",
         "address": "0x623FD671DE015246bd59861637B373AAFC2ab66f",
         "symbol": "DAI",
         "name": "Dai",
@@ -59,7 +59,7 @@
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DAI.svg"
       },
       {
-        "chainId": "900",
+        "chainId": "560048",
         "address": "0x71f99635c54812Dda21D9f3Fef6c1b6eF72F8bE4",
         "symbol": "DYDX",
         "name": "ETHDYDX",
@@ -79,7 +79,7 @@
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/DYDX.svg"
       },
       {
-        "chainId": "900",
+        "chainId": "560048",
         "address": "0x6716C7903D39f907e7e73cdc636147F0AE18378A",
         "symbol": "LINK",
         "name": "Chainlink",
@@ -99,7 +99,7 @@
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/LINK.svg"
       },
       {
-        "chainId": "900",
+        "chainId": "560048",
         "address": "0xb6fD0b4F948b260102e6c96dEB7De6c8a4e7Fd9C",
         "symbol": "UNI",
         "name": "Uniswap",
@@ -119,7 +119,7 @@
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/UNI.svg"
       },
       {
-        "chainId": "900",
+        "chainId": "560048",
         "address": "0x81bb09C7E199c7eED49B2a9C6eDe3e64b5B4Dd63",
         "symbol": "USDT",
         "name": "Tether",
@@ -139,7 +139,7 @@
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDT.svg"
       },
       {
-        "chainId": "900",
+        "chainId": "560048",
         "address": "0x4800b6a56cfBEDf02Ee0cc9d09db9A456bF95506",
         "symbol": "WBTC",
         "name": "Wrapped Bitcoin",
@@ -159,7 +159,7 @@
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WBTC.svg"
       },
       {
-        "chainId": "900",
+        "chainId": "560048",
         "address": "0x0fab4946a4674abea90b9af2a4008726e35ff82a",
         "symbol": "WETH",
         "name": "WETH",
@@ -179,7 +179,7 @@
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WETH.svg"
       },
       {
-        "chainId": "900",
+        "chainId": "560048",
         "address": "0x168c269D9C7d31c800e75D91271604d255E696a3",
         "symbol": "USDC",
         "name": "USDC",
@@ -199,7 +199,7 @@
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
       },
       {
-        "chainId": "900",
+        "chainId": "560048",
         "address": "0x2dbA098b1cbe1e698e780c9cf09F0eE5577796D4",
         "symbol": "wstETH",
         "name": "Wrapped liquid staked Ether 2.0",
@@ -219,7 +219,7 @@
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WSTETH.svg"
       },
       {
-        "chainId": "900",
+        "chainId": "560048",
         "address": "0x1D87585dF4D48E52436e26521a3C5856E4553e3F",
         "symbol": "SERC20",
         "name": "SimpleERC20",
