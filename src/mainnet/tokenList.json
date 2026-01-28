@@ -176,7 +176,7 @@
         "decimals": 18,
         "gatewayAddress": "0x5300000000000000000000000000000000000008",
         "gatewayName": "L2StandardERC20Gateway",
-        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGB.svg"
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGB(old).svg"
       },
       {
         "chainId": "1",
