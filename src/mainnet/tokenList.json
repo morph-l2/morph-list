@@ -42,8 +42,10 @@
         "chainId": "1",
         "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
         "symbol": "USDT",
+        "displaySymbol": "USDT(USDT0)",
         "name": "Tether",
         "decimals": 6,
+        "protocol": "layerzero",
         "gatewayAddress": "0x44c28f61a5c2dd24fc71d7df8e85e18af4ab2bd8",
         "gatewayName": "L1StandardERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDT.svg"
@@ -52,11 +54,24 @@
         "chainId": "2818",
         "address": "0xc7D67A9cBB121b3b0b9c053DD9f469523243379A",
         "symbol": "USDT",
-        "name": "Tether",
+        "name": "Morph USDT",
         "decimals": 6,
+        "protocol": "native",
         "gatewayAddress": "0x5300000000000000000000000000000000000008",
         "gatewayName": "L2StandardERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDT.svg"
+      },
+      {
+        "chainId": "2818",
+        "address": "0xe7cd86e13AC4309349F30B3435a9d337750fC82D",
+        "symbol": "USDT",
+        "displaySymbol": "USDT0",
+        "name": "Tether USDT0",
+        "decimals": 6,
+        "protocol": "layerzero",
+        "gatewayAddress": "",
+        "gatewayName": "",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDT0.svg"
       },
       {
         "chainId": "1",
@@ -97,7 +112,7 @@
         "gatewayAddress": "0x5300000000000000000000000000000000000010",
         "gatewayName": "L2WETHGateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/WETH.svg"
-      },    
+      },
       {
         "chainId": "1",
         "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
@@ -162,6 +177,7 @@
         "chainId": "1",
         "address": "0x54D2252757e1672EEaD234D27B1270728fF90581",
         "symbol": "BGB",
+        "protocol": "ccip",
         "name": "BitgetToken",
         "decimals": 18,
         "gatewayAddress": "0x44c28f61a5c2dd24fc71d7df8e85e18af4ab2bd8",
@@ -172,11 +188,24 @@
         "chainId": "2818",
         "address": "0x55d1f1879969bdbB9960d269974564C58DBc3238",
         "symbol": "BGB",
+        "protocol": "native",
         "name": "BitgetToken",
+        "displaySymbol": "BGB(old)",
         "decimals": 18,
         "gatewayAddress": "0x5300000000000000000000000000000000000008",
         "gatewayName": "L2StandardERC20Gateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGB(old).svg"
+      },
+      {
+        "chainId": "2818",
+        "address": "0x389c08bc23a7317000a1fd76c7c5b0cb0b4640b5",
+        "symbol": "BGB",
+        "protocol": "ccip",
+        "name": "BitgetToken",
+        "decimals": 18,
+        "gatewayAddress": "",
+        "gatewayName": "",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/BGB.svg"
       },
       {
         "chainId": "1",
@@ -325,4 +354,3 @@
       "patch": 0
     }
   }
-  
