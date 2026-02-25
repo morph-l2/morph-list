@@ -139,6 +139,7 @@
         "symbol": "USDC",
         "name": "USDC",
         "decimals": 6,
+        "disabled": true,
         "gatewayAddress": "0x2C8314f5AADa5D7a9D32eeFebFc43aCCAbe1b289",
         "gatewayName": "L1USDCGateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
