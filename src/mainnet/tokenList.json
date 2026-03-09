@@ -150,7 +150,7 @@
         "address": "0xe34c91815d7fc18A9e2148bcD4241d0a5848b693",
         "symbol": "USDC",
         "displaySymbol": "USDC.e",
-        "name": "USDC Morph Bridged",
+        "name": "USD Coin Morph Bridged",
         "decimals": 6,
         "protocol": "layerzero",
         "gatewayAddress": "0xc5e44E2fFe9523809146eD17D62bb382ECCf426B",
