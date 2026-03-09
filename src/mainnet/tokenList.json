@@ -1,6 +1,6 @@
 {
     "name": "Bridge Token List",
-    "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/bridgeIcos/morph_bridge.svg",
+    "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/bridgeIcons/morph.svg",
     "keywords": [
       "morph",
       "bridge",
@@ -54,7 +54,8 @@
         "chainId": "2818",
         "address": "0xc7D67A9cBB121b3b0b9c053DD9f469523243379A",
         "symbol": "USDT",
-        "name": "Morph USDT",
+        "displaySymbol": "USDT.e",
+        "name": "Tether Morph Bridged",
         "decimals": 6,
         "protocol": "native",
         "gatewayAddress": "0x5300000000000000000000000000000000000008",
@@ -139,7 +140,7 @@
         "symbol": "USDC",
         "name": "USDC",
         "decimals": 6,
-        "disabled": true,
+        "protocol": "layerzero",
         "gatewayAddress": "0x2C8314f5AADa5D7a9D32eeFebFc43aCCAbe1b289",
         "gatewayName": "L1USDCGateway",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
@@ -148,10 +149,24 @@
         "chainId": "2818",
         "address": "0xe34c91815d7fc18A9e2148bcD4241d0a5848b693",
         "symbol": "USDC",
-        "name": "USDC Coin",
+        "displaySymbol": "USDC.e",
+        "name": "USDC Morph Bridged",
         "decimals": 6,
+        "protocol": "layerzero",
         "gatewayAddress": "0xc5e44E2fFe9523809146eD17D62bb382ECCf426B",
         "gatewayName": "L2USDCGateway",
+        "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
+      },
+      {
+        "chainId": "2818",
+        "address": "0xCfb1186F4e93D60E60a8bDd997427D1F33bc372B",
+        "symbol": "USDC",
+        "displaySymbol": "USDC",
+        "name": "USDC",
+        "decimals": 6,
+        "protocol": "layerzero",
+        "gatewayAddress": "",
+        "gatewayName": "",
         "logoURI": "https://raw.githubusercontent.com/morph-l2/morph-list/main/tokenIcons/USDC.svg"
       },
       {
